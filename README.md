@@ -16,3 +16,10 @@ https://docs.python.org/3/library/typing.html
 
 ### Docstrings (Referências de documentação no Python)
 https://www.datacamp.com/community/tutorials/docstrings-python
+
+### Escrita de arquivos .env
+https://pypi.org/project/python-dotenv/
+
+### Process Manager for Python (Backend)
+https://pm2.keymetrics.io/
+
