@@ -23,3 +23,6 @@ https://pypi.org/project/python-dotenv/
 ### Process Manager for Python (Backend)
 https://pm2.keymetrics.io/
 
+## Gerar elementos aleatórios
+https://pythonrepo.com/repo/joke2k-faker-python-testing-codebases-and-generating-test-data
+
