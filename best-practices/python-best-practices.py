@@ -23,7 +23,8 @@ def area_quadrado(lado: Type[int]):
 	return lado * lado
 
 
-print(area_retangulo(3.0, 4.2))  # OK
-print(area_retangulo(3, 4))  # OK
-print(area_quadrado(4.2))  # NOK pq é float
-print(area_quadrado(4))  # NOK pq..pq..pq?
+if __name__ == '__main__':
+	print(area_retangulo(3.0, 4.2))  # OK
+	print(area_retangulo(3, 4))  # OK
+	print(area_quadrado(4.2))  # NOK pq é float
+	print(area_quadrado(4))  # NOK pq..pq..pq?
